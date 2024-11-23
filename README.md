@@ -1,7 +1,8 @@
 # Clustering-Assignment
 
 a)K-Means clustering from scratch
-Colab link:   https://colab.research.google.com/drive/1-DMzic9l8WyMVZQ1sLX1gct_a_u9y9pb?usp=sharing
+Colab link:  
+ https://colab.research.google.com/drive/1-DMzic9l8WyMVZQ1sLX1gct_a_u9y9pb?usp=sharing
 
 b)Hierarchical clustering (not from scratch)
 
