@@ -24,6 +24,10 @@ Colab link:
 
 https://colab.research.google.com/drive/1eXKci04DnHkq68V9amWMH6d473PekDER?usp=sharing
 
+Video Description link :
+
+https://youtu.be/189XkhOFeuc
+
 d)DB Scan clustering (not from scratch) using pycaret library 
 
 Colab link: 
