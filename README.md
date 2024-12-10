@@ -44,11 +44,15 @@ Colab link:
 
 https://colab.research.google.com/drive/1-H97IH-O9Gik5zRdIZad6aYbBtepioyT?usp=sharing
 
+Video Description link :
+
 f)Illustrate clustering of timeseries data using pretrained models
 
 Colab link: 
 
 https://colab.research.google.com/drive/1gjFA84HAHcUBwNURCSrZs7aMekh3HPqJ?usp=sharing
+
+Video Description link :
 
 g)Write a colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).
 
@@ -56,15 +60,21 @@ Colab link:
 
 https://colab.research.google.com/drive/1kHufbngfaiJqvPmMdIzbdoBlfFAHdPTK?usp=sharing
 
+Video Description link :
+
 h)Write a colab for clustering with images using imagebind llm embeddings 
 
 Colab link:
 
 https://colab.research.google.com/drive/1F6KS4n2Gg2NHEXxm5hnB2XDPlkIpsU3l?usp=sharing
 
+Video Description link :
+
 i)Write a colab for audio embeddings using imagebind llms
 
 Colab link:
 
 https://colab.research.google.com/drive/1pQvjRPllY7gZVkqtY3yNFI-XWh5eEB3i?usp=sharing
+
+Video Description link :
 
