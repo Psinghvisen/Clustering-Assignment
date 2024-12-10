@@ -34,6 +34,10 @@ Colab link:
 
 https://colab.research.google.com/drive/1h3dCuic7DxWFV3sgs7xwlIThr6Fe14YQ?usp=sharing
 
+Video Description link :
+
+https://youtu.be/L1ZZZKDZm3o
+
 e)Demonstrate anomaly detection using pyOD using any usecase
 
 Colab link: 
