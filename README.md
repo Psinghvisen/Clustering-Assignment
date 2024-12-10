@@ -66,6 +66,8 @@ https://colab.research.google.com/drive/1kHufbngfaiJqvPmMdIzbdoBlfFAHdPTK?usp=sh
 
 Video Description link :
 
+https://youtu.be/DWcBl4Vogqw
+
 h)Write a colab for clustering with images using imagebind llm embeddings 
 
 Colab link:
