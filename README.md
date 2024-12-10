@@ -46,6 +46,8 @@ https://colab.research.google.com/drive/1-H97IH-O9Gik5zRdIZad6aYbBtepioyT?usp=sh
 
 Video Description link :
 
+https://youtu.be/zAdE7RO0rM4
+
 f)Illustrate clustering of timeseries data using pretrained models
 
 Colab link: 
