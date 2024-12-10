@@ -56,6 +56,8 @@ https://colab.research.google.com/drive/1gjFA84HAHcUBwNURCSrZs7aMekh3HPqJ?usp=sh
 
 Video Description link :
 
+https://youtu.be/5PfWK_s62DE
+
 g)Write a colab to illustrate clustering  of documents. use state of art embeddings (LLM Embeddings).
 
 Colab link: 
