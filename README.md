@@ -10,6 +10,10 @@ Colab link:
 
 https://colab.research.google.com/drive/1PyFC0on2sI8ebn9pV_p5aq_IhZMwyN0M?usp=sharing
 
+Video Description link :
+
+https://youtu.be/t8YrvIp-Emg
+
 c)Gaussian mixture models clustering (not from scratch)
 
 Colab link: 
